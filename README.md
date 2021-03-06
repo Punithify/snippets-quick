@@ -1,4 +1,3 @@
-Source code for the [Next.js](https://nextjs.org/) crash course project that uses Tailwind CSS, SWR, React Hook Form, and FaunaDB!
 
 ![Working Demo](./images/cover.jpg)
 
