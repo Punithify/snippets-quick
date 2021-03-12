@@ -1,4 +1,4 @@
-![Working Demo](./images/Screenshot_2021-03-12 My Snippets.png)
+![Working Demo](./images/cover.png)
 
 ## Getting Started
 
