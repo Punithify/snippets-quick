@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Unvernisable Snippetsp</title>
+        <title>Unvernisable Snippets</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
